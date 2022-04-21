@@ -1,0 +1,6 @@
+com\manoelcampos\exportador\AbstractExportadorListaProduto.class
+com\manoelcampos\exportador\ExportadorListaProdutoMarkdown.class
+Principal.class
+com\manoelcampos\exportador\ExportadorListaProduto.class
+com\manoelcampos\exportador\Produto.class
+com\manoelcampos\exportador\ExportadorListaProdutoHtml.class
