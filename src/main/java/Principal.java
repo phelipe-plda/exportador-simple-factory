@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Executa a aplicação Exportador Simple Factory.
- * @author Manoel Campos da Silva Filho
+ * @author Manoel Campos da  Silva Filho
  */
 public class Principal {
     public static void main(String[] args) {

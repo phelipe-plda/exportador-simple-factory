@@ -17,7 +17,7 @@ public interface ExportadorListaProduto {
     String abrirTabela();
 
     /**
-     * Retorna o código para fechamento de uma tabela em um formato de dados específico.
+     * Retorna o código para fechamento de uma tabela em um formato de dados específico .
      * @return
      */
     String fecharTabela();

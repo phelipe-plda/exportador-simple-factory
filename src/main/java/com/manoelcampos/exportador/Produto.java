@@ -1,7 +1,7 @@
 package com.manoelcampos.exportador;
 
 /**
- * @author Manoel Campos da Silva Filho
+ * @author Manoel Campos da S ilva Filho
  */
 public class Produto {
     /**

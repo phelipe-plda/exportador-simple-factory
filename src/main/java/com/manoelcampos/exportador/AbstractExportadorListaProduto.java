@@ -11,9 +11,6 @@ import java.util.List;
  */
 public abstract class AbstractExportadorListaProduto implements ExportadorListaProduto {
 
-    /**
-     * Colunas a serem exibidas na tabela gerada no processo de exportação.
-     */
     protected static final List<String> TITULOS_COLUNAS = Arrays.asList("ID", "Descrição", "Marca", "Modelo", "Estoque");
 
     @Override

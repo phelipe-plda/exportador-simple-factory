@@ -24,4 +24,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>exportador-exportador-factory</name>
 </project>

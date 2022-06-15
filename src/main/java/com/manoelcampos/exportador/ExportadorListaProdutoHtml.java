@@ -9,7 +9,7 @@ package com.manoelcampos.exportador;
  * Assim, não teremos como instanciar diretamente tais classes.
  * A Simple Factory faz isso pra nós.</p>
  *
- * @author Manoel Campos da Silva Filho
+ * @author Manoel Campos da Silv a Filho
  */
 class ExportadorListaProdutoHtml extends AbstractExportadorListaProduto {
     @Override
